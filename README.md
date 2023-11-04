@@ -1,4 +1,7 @@
 # How to start
+
+**Please note: This repository is now archived and will no longer be updated or maintained.**
+
 ### you have to install node then type command in terminal
 
 ```bash
